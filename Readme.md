@@ -1,6 +1,7 @@
 # Dependências
 - wget
 - selenium
+- instalar chromedriver.exe na pasta do repositório
 
 # Scraping das imagens do pinterest
 - logar[x]
